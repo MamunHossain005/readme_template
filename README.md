@@ -90,7 +90,7 @@ http://www.10minuteschool.com
 
 ### image syntax  
 <!-- ![profile](./images/dhaka.JPG)  -->
-<img src="./images/dhaka.jpg" width="400" height="250" title="profile image"/>
+<img src="./images/dhaka.JPG" width="400" height="250">
 😊 
 <br/>
 
